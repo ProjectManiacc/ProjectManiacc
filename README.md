@@ -14,3 +14,6 @@ I'm a Computer Science student at Silesian University of Technology and Software
 Interested in Artificial Intelligence and eager to learn it. I believe that this technologies are our future and soon we will be able to see it's influence in various 
 areas of our life
 
+<hr/>
+  
+### My favourite Technologies
